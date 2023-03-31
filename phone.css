@@ -1,0 +1,31 @@
+* {
+    margin: 0px;
+    padding: 0px; 
+    box-sizing: border-box;    
+}
+
+html{
+    font-size: 62.5%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+:root {
+    --step--3: clamp(0.65rem, calc(0.49rem + 0.82vw), 1.12rem);
+    --step--2: clamp(0.78rem, calc(0.57rem + 1.08vw), 1.40rem);
+    --step--1: clamp(0.94rem, calc(0.65rem + 1.41vw), 1.75rem);
+    --step-0: clamp(1.13rem, calc(0.76rem + 1.85vw), 2.19rem);
+    --step-1: clamp(1.35rem, calc(0.87rem + 2.41vw), 2.73rem);
+    --step-2: clamp(1.62rem, calc(0.99rem + 3.13vw), 3.42rem);
+    --step-3: clamp(1.94rem, calc(1.13rem + 4.05vw), 4.27rem);
+    --step-4: clamp(2.33rem, calc(1.29rem + 5.23vw), 5.34rem);
+    --step-5: clamp(2.80rem, calc(1.45rem + 6.74vw), 6.68rem);
+}
+
+body{
+    width: 100%;
+    min-height: 100vh;
+    display: grid;
+    grid-template-rows: auto, 1fr , auto;
+    flex-direction: column;
+}
+
