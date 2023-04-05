@@ -49,10 +49,8 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 5. Abre un pull request y describe tus cambios detalladamente.
 
 ## Créditos
-Este proyecto fue desarrollado por Carlos Vergara como parte de su proceso de aprendizaje autodidacta en diseño web. El proyecto fue ejecutado como parte del reto presentado en[[1]devchallenges.io][devchallenges.io] con el objetivo de poner en práctica sus habilidades y conocimientos adquiridos. A través de este desafío[Recipe page](https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht)
+Este proyecto fue desarrollado por Carlos Vergara como parte de su proceso de aprendizaje autodidacta en diseño web. El proyecto fue ejecutado como parte del reto presentado en [devchallenges.io](devchallenges.io) con el objetivo de poner en práctica sus habilidades y conocimientos adquiridos. A través de este desafío: [Recipe page](https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht)
 
-
-Este proyecto fue desarrollado por Carlos Vergara como parte de su proceso de aprendizaje autodidacta sobre diseño web, ejecutando el siguiente reto de 
 
 ## Licencia
 
